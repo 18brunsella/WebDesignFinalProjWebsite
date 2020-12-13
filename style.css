@@ -1,0 +1,210 @@
+html{
+    background: #fff;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3{
+    text-align: center;
+}
+
+img{
+    float: left;
+    margin-right: 30px;
+    margin-left: 175px;
+    margin-bottom: 100px;
+    margin-top: 10px;
+}
+
+.title{
+    font-size: 2em;
+}
+
+#grad{
+    background-image: linear-gradient(red,white); 
+}
+
+.firstsec{  
+    height: 600px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width:100%;
+    background-image: linear-gradient(red, white);
+}
+
+.secondsec{
+    height: 250px;
+    background: #e0e0e0;
+    font-size: 1.2em;
+}
+
+.section1{
+    text-align: center;
+    margin-top: 175px;
+}
+
+.form1{
+    background-color: white;
+    text-align: center;
+    position: relative;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+.separator{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.separate{
+    flex-grow: 0;
+    padding: 0 10px;
+}
+
+.section3{
+    background:#e0e0e0;
+    height: 350px;
+}
+
+.line{
+    background: #000;
+    flex-grow: 1;
+    height: 2px;
+}
+
+.signup{
+    display: flex;
+    align-items: center;
+    height: 853px;
+    position: relative;
+    justify-content: center;
+    width: 100%;
+}
+
+.gandf{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0 0;
+}
+
+.buttonTwo{
+    margin: 5px;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 8px;
+}
+
+.field{
+    line-height: 30px;
+    width: 100%;
+    background-color: lightgrey;
+}
+
+.create{
+    margin-top: 10px;
+    align-items: center;
+}
+
+.signup-but{
+    padding: 17px 26px;
+    text-transform: uppercase;
+    margin-top: 25px;
+    background-color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 8px;
+}
+
+.buttonB{
+    background-color: skyblue;
+}
+
+.buttonG{
+    background-color: green;
+}
+
+.wrapper{
+    display: flex;
+    position: relative;
+    background: #e0e0e0;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 75px;
+}
+
+.benefits{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+    font-size: 1.2em;
+}
+.wrapper > div {
+    flex: 1;
+    text-align: center;
+}
+
+.aboutme{
+    background:#e0e0e0;
+}
+
+.box{
+    padding: 20px;
+    border: 1.5px solid black;
+}
+
+.box1{
+    background: white;
+}
+
+.box2{
+    background: red;
+}
+
+.reasontitle{
+    margin-top: 40px;
+}
+
+.top{
+    margin-bottom: 50px;
+    font-size: 1.2em;
+}
+
+.but1{
+    margin-bottom: 50px;
+}
+
+.button{
+    border: none;
+    padding: 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.button1{
+    border-radius: 8px;
+    background: skyblue;
+}
+
+.button2{
+    border-radius: 8px;
+    background: yellow;
+}
+
+.para{
+    margin-left: 500px;
+    margin-right: 50px;
+    font-size: 1.2em;
+}
+
+.abouttitle{
+    margin-left: 500px;
+    margin-top: 10px;
+}
